@@ -1,6 +1,6 @@
 # Google Restore for NikGapps Core package
 
-> Flash this package via TWRP after rom and NikGapps Core installation complete
+> Flash this package via TWRP or Magisk after rom and NikGapps Core installation complete
 
 ### Download from
  [Releases](https://github.com/PycmShoma/NikGappsCore_RestoreAddon/releases/tag/1.0)
