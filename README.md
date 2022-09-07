@@ -9,10 +9,10 @@
 # Google Restore + Google Assistant
 > Google Restore + Google Assistant (Ok Google) Addon installer
 
-> Flash via TWRP
+### Download from Google Drive 
+ [TWRP Version](https://drive.google.com/file/d/1YD6t_99hgJimFGXCekSniqO6LP1C2wSE/view?usp=drivesdk)
 
-### Download from
- [GDrive](https://drive.google.com/file/d/1YD6t_99hgJimFGXCekSniqO6LP1C2wSE/view?usp=drivesdk)
+ [Magisk Version](https://drive.google.com/file/d/1vmIzVJuK4GRga7BczEB5wjJWu_V2vwjZ/view?usp=drivesdk)
 #
 #
 # Uninstall OK Google & X Google
