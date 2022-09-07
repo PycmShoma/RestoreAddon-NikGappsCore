@@ -1,13 +1,16 @@
 # Google Restore for NikGapps Core package
+> Flash TWRP version after rom and NikGapps Core installation complete
 
-> Flash this package via TWRP or Magisk after rom and NikGapps Core installation complete
+> Flash Magisk version after booting and Magisk setup complete
 
 ### Download from
  [Releases](https://github.com/PycmShoma/NikGappsCore_RestoreAddon/releases/tag/1.0)
 #
 #
 # Google Restore + Google Assistant
-> Google Restore + Google Assistant (Ok Google) Addon installer
+> Flash TWRP version after rom and NikGapps Core installation complete
+
+> Flash Magisk version after booting and Magisk setup complete
 
 ### Download from Google Drive 
  [TWRP Version](https://drive.google.com/file/d/1YD6t_99hgJimFGXCekSniqO6LP1C2wSE/view?usp=drivesdk)
